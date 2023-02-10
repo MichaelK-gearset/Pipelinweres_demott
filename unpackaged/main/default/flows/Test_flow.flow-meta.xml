@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>56.0</apiVersion>
+    <decisions>
+        <name>Test_decision</name>
+        <label>Test_decision</label>
+        <locationX>783</locationX>
+        <locationY>400</locationY>
+        <defaultConnectorLabel>Default Outcome</defaultConnectorLabel>
+        <rules>
+            <name>Test_decision1</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>Test</leftValueReference>
+                <operator>NotEqualTo</operator>
+                <rightValue>
+                    <elementReference>Test</elementReference>
+                </rightValue>
+            </conditions>
+            <label>Test_decision</label>
+        </rules>
+    </decisions>
+    <description>Adding new version 8</description>
+    <environments>Default</environments>
+    <interviewLabel>Test flow {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Test flow</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>FREE_FORM_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <stages>
+        <name>Test</name>
+        <isActive>false</isActive>
+        <label>Test</label>
+        <stageOrder>1</stageOrder>
+    </stages>
+    <start>
+        <locationX>651</locationX>
+        <locationY>48</locationY>
+        <connector>
+            <targetReference>Test_decision</targetReference>
+        </connector>
+        <filterLogic>or</filterLogic>
+        <filters>
+            <field>AccountNumber</field>
+            <operator>NotEqualTo</operator>
+            <value>
+                <booleanValue>true</booleanValue>
+            </value>
+        </filters>
+        <object>Account</object>
+        <recordTriggerType>Delete</recordTriggerType>
+        <triggerType>RecordBeforeDelete</triggerType>
+    </start>
+    <status>Obsolete</status>
+</Flow>
