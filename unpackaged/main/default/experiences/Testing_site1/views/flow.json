@@ -1,11 +1,11 @@
 {
-  "appPageId" : "6f1b05f1-a419-421a-8e34-67298332e2ba",
+  "appPageId" : "af88719a-3785-4704-8199-f94c8db6c218",
   "componentName" : "siteforce:sldsOneColLayout",
   "dataProviders" : [ ],
-  "id" : "33efd62b-289f-40d7-b6ad-2da632ce65c2",
+  "id" : "83e8b368-0ba6-4f73-aeaf-c57b79b051c2",
   "label" : "Flow",
   "regions" : [ {
-    "id" : "ac4b30bd-2aba-4c36-a905-337bea44c51b",
+    "id" : "b215bef1-7ab9-4ce6-b9ab-381d35b18325",
     "regionName" : "header",
     "type" : "region"
   }, {
@@ -15,16 +15,16 @@
         "flowName" : "{!flowName}"
       },
       "componentName" : "forceCommunity:flowCommunity",
-      "id" : "dfb8df9c-cf5d-4106-95eb-db87602cd6bc",
+      "id" : "168a453a-d4b2-4594-930f-80bd05bfe558",
       "renderPriority" : "NEUTRAL",
       "renditionMap" : { },
       "type" : "component"
     } ],
-    "id" : "f5bbd158-fd74-4ead-ad8b-9907d89016f5",
+    "id" : "c01af3e5-3c4c-4456-ba3a-1e9f08b8a5ff",
     "regionName" : "content",
     "type" : "region"
   }, {
-    "id" : "3ce86522-2ef5-446c-b4fe-aec6610b2502",
+    "id" : "625a7c17-304a-4de9-9a5a-a615bf96feaf",
     "regionName" : "footer",
     "type" : "region"
   } ],
