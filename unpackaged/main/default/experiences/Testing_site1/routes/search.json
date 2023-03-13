@@ -1,8 +1,8 @@
 {
-  "activeViewId" : "fa04a62d-c95c-4ce0-b349-7e22622cf257",
-  "appPageId" : "af88719a-3785-4704-8199-f94c8db6c218",
+  "activeViewId" : "7efe6448-d363-425d-bb4a-29a7fc0e7880",
+  "appPageId" : "6f1b05f1-a419-421a-8e34-67298332e2ba",
   "configurationTags" : [ ],
-  "id" : "03f89840-1809-46b2-9951-cc2a939733de",
+  "id" : "b6f68eeb-5b85-49ab-a808-803dded9737b",
   "label" : "Search",
   "routeType" : "global-search",
   "type" : "route",

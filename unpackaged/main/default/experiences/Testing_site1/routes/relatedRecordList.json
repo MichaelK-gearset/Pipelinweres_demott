@@ -1,8 +1,8 @@
 {
-  "activeViewId" : "ddec6a15-5bf9-47dc-ab89-20f1442bfb44",
-  "appPageId" : "af88719a-3785-4704-8199-f94c8db6c218",
+  "activeViewId" : "9f2e1364-9514-46a7-ade7-b2e4a86d4ab3",
+  "appPageId" : "6f1b05f1-a419-421a-8e34-67298332e2ba",
   "configurationTags" : [ ],
-  "id" : "cc454775-4831-4b38-8eac-ffa6e4c3c4cc",
+  "id" : "d7bec333-3500-4fd9-8cb3-baa5254790b7",
   "label" : "Related Record List",
   "routeType" : "relatedlist",
   "type" : "route",
