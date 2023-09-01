@@ -4,7 +4,7 @@
     <description>Testing how changing the name of a field appears in Gearset.</description>
     <externalId>false</externalId>
     <label>Test_12new</label>
-    <length>15</length>
+    <length>10</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
