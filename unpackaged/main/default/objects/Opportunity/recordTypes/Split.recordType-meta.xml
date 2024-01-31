@@ -78,33 +78,6 @@
         </values>
     </picklistValues>
     <picklistValues>
-        <picklist>ForecastCategoryName</picklist>
-        <values>
-            <fullName>Best Case</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Closed</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Commit</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Omitted</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Pipeline</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>test</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>LeadSource</picklist>
         <values>
             <fullName>Other</fullName>
