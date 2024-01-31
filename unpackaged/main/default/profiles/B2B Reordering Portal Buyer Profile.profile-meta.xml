@@ -3117,9 +3117,6 @@
         <layout>Suggestion__c-Suggestion Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Supply__c-Supply Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Swarm-Swarm Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3700,10 +3697,6 @@
         <recordType>PersonAccount.PersonAccount</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
-    <tabVisibilities>
-        <tab>Supply__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Account</tab>
         <visibility>DefaultOn</visibility>
