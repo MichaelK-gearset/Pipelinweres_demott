@@ -88,10 +88,6 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Phone Inquiry</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Purchased List</fullName>
             <default>false</default>
         </values>
