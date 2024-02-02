@@ -12,6 +12,11 @@
         <label>Apparel</label>
     </standardValue>
     <standardValue>
+        <fullName>Banking</fullName>
+        <default>false</default>
+        <label>Banking</label>
+    </standardValue>
+    <standardValue>
         <fullName>Biotechnology</fullName>
         <default>false</default>
         <label>Biotechnology</label>
