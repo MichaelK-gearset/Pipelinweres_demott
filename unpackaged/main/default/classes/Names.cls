@@ -20,7 +20,7 @@ public class Names {
         'Ellie',
         'Eilidh',
         'Mia',
-        'Millie',
+        'George',
         'Anna',
         'Emma',
         'Ruby',
