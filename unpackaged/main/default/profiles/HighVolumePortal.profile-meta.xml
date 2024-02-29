@@ -3525,4 +3525,10 @@
         <enabled>true</enabled>
         <name>UseWebLink</name>
     </userPermissions>
+    <layoutAssignments>
+        <layout>Support_Tier__mdt-Support Tier Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VAT_DATA__mdt-VAT Data Layout</layout>
+    </layoutAssignments>
 </Profile>
