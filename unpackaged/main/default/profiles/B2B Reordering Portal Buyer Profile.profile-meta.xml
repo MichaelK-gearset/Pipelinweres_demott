@@ -3382,5 +3382,11 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
+    <layoutAssignments>
+        <layout>Support_Tier__mdt-Support Tier Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VAT_DATA__mdt-VAT Data Layout</layout>
+    </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
 </Profile>
