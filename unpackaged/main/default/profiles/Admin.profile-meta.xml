@@ -153,6 +153,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Support_Tier__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.TickerSymbol</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4238,4 +4243,10 @@
         <apexClass>List_String_Test</apexClass>
         <enabled>true</enabled>
       </classAccesses>
+    <layoutAssignments>
+        <layout>Support_Tier__mdt-Support Tier Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VAT_DATA__mdt-VAT Data Layout</layout>
+    </layoutAssignments>
 </Profile>
