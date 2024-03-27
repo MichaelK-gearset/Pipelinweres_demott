@@ -37,16 +37,6 @@
         <label>Construction</label>
     </standardValue>
     <standardValue>
-        <fullName>Consulting</fullName>
-        <default>false</default>
-        <label>Consulting</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Education</fullName>
-        <default>false</default>
-        <label>Education</label>
-    </standardValue>
-    <standardValue>
         <fullName>Electronics</fullName>
         <default>false</default>
         <label>Electronics</label>
@@ -160,5 +150,15 @@
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Consulting</fullName>
+        <default>false</default>
+        <label>Consulting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Education</fullName>
+        <default>false</default>
+        <label>Education</label>
     </standardValue>
 </StandardValueSet>
