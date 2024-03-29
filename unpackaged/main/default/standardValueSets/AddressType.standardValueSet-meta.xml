@@ -2,23 +2,23 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Hot</fullName>
-        <default>false</default>
-        <label>Hot</label>
+        <fullName>Mailing</fullName>
+        <default>true</default>
+        <label>Mailing</label>
     </standardValue>
     <standardValue>
-        <fullName>Warm</fullName>
+        <fullName>Shipping</fullName>
         <default>false</default>
-        <label>Warm</label>
+        <label>Shipping</label>
     </standardValue>
     <standardValue>
-        <fullName>Cold</fullName>
+        <fullName>Billing</fullName>
         <default>false</default>
-        <label>Cold</label>
+        <label>Billing</label>
     </standardValue>
     <standardValue>
-        <fullName>Not Known</fullName>
+        <fullName>Home</fullName>
         <default>false</default>
-        <label>Not Known</label>
+        <label>Home</label>
     </standardValue>
 </StandardValueSet>
