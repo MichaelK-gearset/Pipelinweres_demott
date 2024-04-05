@@ -128,6 +128,6 @@
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
-     <externalSharingModel>ReadWrite</externalSharingModel>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
