@@ -2,11 +2,11 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Account.DandbCompanyId</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
+      </fieldPermissions>
+      <fieldPermissions>
         <editable>false</editable>
         <field>Account.DunsNumber</field>
         <readable>false</readable>
@@ -17,16 +17,16 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Account.NaicsCode</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
+      </fieldPermissions>
+      <fieldPermissions>
+        <editable>false</editable>
         <field>Account.NaicsDesc</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
+      </fieldPermissions>
+      <fieldPermissions>
         <editable>true</editable>
         <field>Account.NumberofLocations__c</field>
         <readable>true</readable>
