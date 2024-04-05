@@ -4257,40 +4257,4 @@
     <layoutAssignments>
         <layout>VAT_DATA__mdt-VAT Data Layout</layout>
     </layoutAssignments>
-    <classAccesses><apexClass>AdvancedDataManipulator</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>AdvancedDataManipulatorScheduler</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>AdvancedDataManipulatorSchedulerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>AdvancedDataManipulatorTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>ApexWithRequirements</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>ChangePasswordController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>ChangePasswordControllerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>ClassRequiredByAnother</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>CommunitiesLandingController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>CommunitiesLandingControllerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>CustomSiteRegisterController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>ForgotPasswordController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>ForgotPasswordControllerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>GeocodingService</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>GeocodingServiceTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>LightningForgotPasswordController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>LightningForgotPasswordControllerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>List_String_Test</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>MetadataChurner</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>MetadataChurnerScheduler</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>Names</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>PagedResult</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>PassingTests</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>RandomDataGenerator</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>SiteLoginController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>SiteLoginControllerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>SiteRegisterController</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>SiteRegisterControllerTest</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>TemperatureConverter</apexClass><enabled>true</enabled></classAccesses>
-    <classAccesses><apexClass>TemperatureConverterTest</apexClass><enabled>true</enabled></classAccesses>
-    <pageAccesses><apexPage>ForgotPassword</apexPage><enabled>true</enabled></pageAccesses>
-    <pageAccesses><apexPage>ForgotPasswordConfirm</apexPage><enabled>true</enabled></pageAccesses>
-    <pageAccesses><apexPage>SiteLogin</apexPage><enabled>true</enabled></pageAccesses>
-    <pageAccesses><apexPage>SiteRegister</apexPage><enabled>true</enabled></pageAccesses>
-    <pageAccesses><apexPage>SiteRegisterConfirm</apexPage><enabled>true</enabled></pageAccesses>
-    <pageAccesses><apexPage>SiteTemplate</apexPage><enabled>true</enabled></pageAccesses>
 </Profile>
