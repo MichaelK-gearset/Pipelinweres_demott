@@ -8,9 +8,17 @@
     <fieldPermissions><editable>true</editable><field>Account.BillingAddress</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>false</editable><field>Account.CleanStatus</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.CustomerPriority__c</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Account.DandbCompanyId</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.DandbCompanyId</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.Description</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Account.DunsNumber</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.DunsNumber</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.Fax</field><readable>true</readable></fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.Industry</field><readable>true</readable></fieldPermissions>
     <fieldPermissions>
@@ -18,8 +26,16 @@
         <field>Account.Jigsaw</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Account.NaicsCode</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Account.NaicsDesc</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.NaicsCode</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.NaicsDesc</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions><editable>true</editable><field>Account.NumberOfEmployees</field><readable>true</readable></fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
