@@ -5,5 +5,6 @@
     <externalId>false</externalId>
     <label>Back Prop11</label>
     <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>
