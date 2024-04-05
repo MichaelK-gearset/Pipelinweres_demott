@@ -12,6 +12,11 @@
         <label>Apparel</label>
     </standardValue>
     <standardValue>
+        <fullName>Banking</fullName>
+        <default>false</default>
+        <label>Banking</label>
+    </standardValue>
+    <standardValue>
         <fullName>Biotechnology</fullName>
         <default>false</default>
         <label>Biotechnology</label>
@@ -30,16 +35,6 @@
         <fullName>Construction</fullName>
         <default>false</default>
         <label>Construction</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Consulting</fullName>
-        <default>false</default>
-        <label>Consulting</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Education</fullName>
-        <default>false</default>
-        <label>Education</label>
     </standardValue>
     <standardValue>
         <fullName>Electronics</fullName>
@@ -155,5 +150,15 @@
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Consulting</fullName>
+        <default>false</default>
+        <label>Consulting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Education</fullName>
+        <default>false</default>
+        <label>Education</label>
     </standardValue>
 </StandardValueSet>
