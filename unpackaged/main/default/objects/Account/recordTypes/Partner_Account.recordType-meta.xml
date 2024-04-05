@@ -260,10 +260,6 @@
     <picklistValues>
         <picklist>Region__c</picklist>
         <values>
-            <fullName>APAC</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Canada</fullName>
             <default>false</default>
         </values>
@@ -326,10 +322,6 @@
         </values>
         <values>
             <fullName>Gold</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Silver</fullName>
             <default>false</default>
         </values>
     </picklistValues>
