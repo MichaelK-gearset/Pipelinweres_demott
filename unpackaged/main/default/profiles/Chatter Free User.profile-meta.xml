@@ -3217,7 +3217,7 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-EngagementChannelType</tab>
-        <visibility>Hidden</visibility>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Entitlement</tab>
@@ -3496,4 +3496,10 @@
         <enabled>true</enabled>
         <name>ViewHelpLink</name>
     </userPermissions>
+    <layoutAssignments>
+        <layout>Support_Tier__mdt-Support Tier Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VAT_DATA__mdt-VAT Data Layout</layout>
+    </layoutAssignments>
 </Profile>
