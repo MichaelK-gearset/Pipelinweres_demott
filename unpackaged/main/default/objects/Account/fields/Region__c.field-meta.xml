@@ -29,11 +29,6 @@
             <valueName>US</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>Bronze</controllingFieldValue>
-            <controllingFieldValue>Silver</controllingFieldValue>
-            <valueName>New</valueName>
-        </valueSettings>
-        <valueSettings>
             <controllingFieldValue>Silver</controllingFieldValue>
             <controllingFieldValue>Gold</controllingFieldValue>
             <valueName>APAC</valueName>
