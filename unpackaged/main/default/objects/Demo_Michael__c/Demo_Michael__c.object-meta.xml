@@ -143,7 +143,6 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Test for how a separate source of truth env would work when creating feat branches.</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -154,12 +153,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Test_Object_Source</label>
+    <label>Demo_Michael</label>
     <nameField>
-        <label>Test_Object_Source Name</label>
+        <label>Feature Michael Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Test_Object_Source</pluralLabel>
+    <pluralLabel>Demo_Michael</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
