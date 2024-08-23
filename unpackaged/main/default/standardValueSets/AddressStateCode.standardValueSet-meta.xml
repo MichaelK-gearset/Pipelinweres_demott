@@ -7,6 +7,11 @@
         <label>Acre</label>
     </standardValue>
     <standardValue>
+        <fullName>AGU</fullName>
+        <default>false</default>
+        <label>Aguascalientes</label>
+    </standardValue>
+    <standardValue>
         <fullName>AL</fullName>
         <default>false</default>
         <label>Alabama</label>
