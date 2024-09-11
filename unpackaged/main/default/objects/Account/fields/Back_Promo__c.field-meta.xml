@@ -5,6 +5,5 @@
     <externalId>false</externalId>
     <label>Back_Promo</label>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>
