@@ -7,7 +7,6 @@
     <label>Region</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>true</trackHistory>
     <type>Picklist</type>
     <valueSet>
         <controllingField>Support_Tier__c</controllingField>
@@ -27,6 +26,11 @@
             <controllingFieldValue>Bronze</controllingFieldValue>
             <controllingFieldValue>Silver</controllingFieldValue>
             <valueName>US</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bronze</controllingFieldValue>
+            <controllingFieldValue>Silver</controllingFieldValue>
+            <valueName>New</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Silver</controllingFieldValue>
