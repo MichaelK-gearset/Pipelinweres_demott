@@ -15,27 +15,38 @@
         <valueSetName>Region</valueSetName>
         <valueSettings>
             <controllingFieldValue>Bronze</controllingFieldValue>
+            <controllingFieldValue>Silver</controllingFieldValue>
+            <valueName>Canada</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bronze</controllingFieldValue>
             <controllingFieldValue>Gold</controllingFieldValue>
             <valueName>EMEA</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Bronze</controllingFieldValue>
-            <controllingFieldValue>Gold</controllingFieldValue>
+            <controllingFieldValue>Silver</controllingFieldValue>
             <valueName>LATAM</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Bronze</controllingFieldValue>
             <controllingFieldValue>Silver</controllingFieldValue>
+            <controllingFieldValue>Gold</controllingFieldValue>
             <valueName>US</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bronze</controllingFieldValue>
+            <valueName>Testing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bronze</controllingFieldValue>
+            <controllingFieldValue>Gold</controllingFieldValue>
+            <valueName>Oceania</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Silver</controllingFieldValue>
             <controllingFieldValue>Gold</controllingFieldValue>
             <valueName>APAC</valueName>
-        </valueSettings>
-        <valueSettings>
-            <controllingFieldValue>Gold</controllingFieldValue>
-            <valueName>Canada</valueName>
         </valueSettings>
     </valueSet>
 </CustomField>

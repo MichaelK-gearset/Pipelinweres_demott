@@ -2,13 +2,8 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Meeting in Person</fullName>
+        <fullName>Salesforce Scheduler</fullName>
         <default>false</default>
-        <label>Meeting in Person</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Call</fullName>
-        <default>false</default>
-        <label>Call</label>
+        <label>Salesforce Scheduler</label>
     </standardValue>
 </StandardValueSet>

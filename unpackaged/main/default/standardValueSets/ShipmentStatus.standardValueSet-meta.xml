@@ -2,28 +2,28 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Warehouse</fullName>
+        <fullName>Shipped</fullName>
         <default>true</default>
-        <label>Warehouse</label>
+        <label>Shipped</label>
     </standardValue>
     <standardValue>
-        <fullName>Site</fullName>
+        <fullName>Delivered</fullName>
         <default>false</default>
-        <label>Site</label>
+        <label>Delivered</label>
     </standardValue>
     <standardValue>
-        <fullName>Van</fullName>
+        <fullName>Created</fullName>
         <default>false</default>
-        <label>Van</label>
+        <label>Created</label>
     </standardValue>
     <standardValue>
-        <fullName>Plant</fullName>
+        <fullName>In Transit</fullName>
         <default>false</default>
-        <label>Plant</label>
+        <label>In Transit</label>
     </standardValue>
     <standardValue>
-        <fullName>Virtual</fullName>
+        <fullName>Voided</fullName>
         <default>false</default>
-        <label>Virtual</label>
+        <label>Voided</label>
     </standardValue>
 </StandardValueSet>

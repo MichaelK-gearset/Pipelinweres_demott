@@ -2,13 +2,18 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Meeting in Person</fullName>
-        <default>false</default>
-        <label>Meeting in Person</label>
+        <fullName>Tentative</fullName>
+        <default>true</default>
+        <label>Tentative</label>
     </standardValue>
     <standardValue>
-        <fullName>Call</fullName>
+        <fullName>Published</fullName>
         <default>false</default>
-        <label>Call</label>
+        <label>Published</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Confirmed</fullName>
+        <default>false</default>
+        <label>Confirmed</label>
     </standardValue>
 </StandardValueSet>
