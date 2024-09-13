@@ -3,6 +3,5 @@
     <fullName>Rating</fullName>
     <inlineHelpText>This indicates the likelihood of a sale being made to this account in the next six months. Cold indicates not likely. Warm indicates quite likely. Hot indicates very likely.</inlineHelpText>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>false</trackHistory>
     <type>Picklist</type>
 </CustomField>

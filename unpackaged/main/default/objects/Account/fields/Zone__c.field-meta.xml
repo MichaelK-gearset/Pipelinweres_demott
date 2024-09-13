@@ -7,7 +7,6 @@
     <label>Zone</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>false</trackHistory>
     <type>Picklist</type>
     <valueSet>
         <controllingField>Region__c</controllingField>
