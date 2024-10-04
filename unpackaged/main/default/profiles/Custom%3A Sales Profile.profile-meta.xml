@@ -51,8 +51,16 @@
         <field>Account.Description</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Account.DiscountPercentage__c</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>Account.DiscountRate__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+  <editable>false</editable>
+  <field>Account.DiscountPercentage__c</field>
+  <readable>true</readable>
+</fieldPermissions>
+    <fieldPermissions>
+  <editable>true</editable>
+  <field>Account.DiscountRate__c</field>
+  <readable>true</readable>
+</fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.DunsNumber</field>
@@ -113,7 +121,11 @@
         <field>Account.Phone</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>Account.Platinum_User__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+  <editable>true</editable>
+  <field>Account.Platinum_User__c</field>
+  <readable>true</readable>
+</fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Rating</field>
@@ -134,7 +146,16 @@
         <field>Account.SLA__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>Account.SalesDemoField__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+  <editable>true</editable>
+  <field>Account.SalesDemoField__c</field>
+  <readable>true</readable>
+</fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Salesforce_Permissions__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.ShippingAddress</field>
@@ -1300,7 +1321,11 @@
         <field>Opportunity.CampaignId</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Opportunity.Close_Reason__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+  <editable>false</editable>
+  <field>Opportunity.Close_Reason__c</field>
+  <readable>true</readable>
+</fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.CurrentGenerators__c</field>
@@ -3240,8 +3265,16 @@
         <modifyAllRecords>false</modifyAllRecords>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
-    <recordTypeVisibilities><default>false</default><recordType>Account.Partner_Account</recordType><visible>false</visible></recordTypeVisibilities>
-    <recordTypeVisibilities><default>false</default><recordType>Contact.Contact</recordType><visible>false</visible></recordTypeVisibilities>
+    <recordTypeVisibilities>
+  <default>false</default>
+  <recordType>Account.Partner_Account</recordType>
+  <visible>false</visible>
+</recordTypeVisibilities>
+    <recordTypeVisibilities>
+  <default>false</default>
+  <recordType>Contact.Contact</recordType>
+  <visible>false</visible>
+</recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>

@@ -6,8 +6,21 @@
         <field>Account.Back_Promo__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions><editable>false</editable><field>Account.DiscountPercentage__c</field><readable>true</readable></fieldPermissions>
-    <fieldPermissions><editable>true</editable><field>Account.DiscountRate__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions>
+  <editable>false</editable>
+  <field>Account.DiscountPercentage__c</field>
+  <readable>true</readable>
+</fieldPermissions>
+    <fieldPermissions>
+  <editable>true</editable>
+  <field>Account.DiscountRate__c</field>
+  <readable>true</readable>
+</fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Salesforce_Permissions__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Support_Tier__c</field>
@@ -151,11 +164,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Contact.Make_Green__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Contact.Onboarding__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1328,8 +1336,16 @@
         <field>WorkStepTemplate.IsActive</field>
         <readable>true</readable>
     </fieldPermissions>
-    <recordTypeVisibilities><default>false</default><recordType>Account.Partner_Account</recordType><visible>false</visible></recordTypeVisibilities>
-    <recordTypeVisibilities><default>false</default><recordType>Contact.Contact</recordType><visible>false</visible></recordTypeVisibilities>
+    <recordTypeVisibilities>
+  <default>false</default>
+  <recordType>Account.Partner_Account</recordType>
+  <visible>false</visible>
+</recordTypeVisibilities>
+    <recordTypeVisibilities>
+  <default>false</default>
+  <recordType>Contact.Contact</recordType>
+  <visible>false</visible>
+</recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
