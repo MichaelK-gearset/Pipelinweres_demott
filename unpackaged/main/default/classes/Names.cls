@@ -17,7 +17,7 @@ public class Names {
         'Aaron',
         'Evie',
         'Harper',
-        'Ellie',
+        'Smith',
         'Eilidh',
         'Mia',
         'Millie',
