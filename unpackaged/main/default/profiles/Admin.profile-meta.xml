@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
+    <userLicense>Salesforce</userLicense>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AccountNumber</field>
@@ -3550,7 +3551,6 @@
         <tab>standard-WorkStepTemplate</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
-    <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
         <name>AIViewInsightObjects</name>
@@ -4303,7 +4303,11 @@
         <apexClass>List_String_Test</apexClass>
         <enabled>true</enabled>
       </classAccesses>
-      <layoutAssignments>
+      <classAccesses>
+        <apexClass>Names</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <layoutAssignments>
         <layout>Support_Tier__mdt-Support Tier Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
