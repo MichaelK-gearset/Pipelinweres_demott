@@ -3086,6 +3086,8 @@
         <field>WorkStepTemplate.IsActive</field>
         <readable>true</readable>
     </fieldPermissions>
+    <recordTypeVisibilities><default>false</default><recordType>Account.Partner_Account</recordType><visible>false</visible></recordTypeVisibilities>
+    <recordTypeVisibilities><default>false</default><recordType>Contact.Contact</recordType><visible>false</visible></recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
@@ -3217,7 +3219,7 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-EngagementChannelType</tab>
-        <visibility>Hidden</visibility>
+        <visibility>DefaultOff</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Entitlement</tab>
@@ -3440,6 +3442,7 @@
         <enabled>true</enabled>
         <name>AssignTopics</name>
     </userPermissions>
+    <userPermissions><enabled>true</enabled><name>BypassMFAForUiLogins</name></userPermissions>
     <userPermissions>
         <enabled>true</enabled>
         <name>ChatterFileLink</name>
@@ -3496,4 +3499,10 @@
         <enabled>true</enabled>
         <name>ViewHelpLink</name>
     </userPermissions>
+    <layoutAssignments>
+        <layout>Support_Tier__mdt-Support Tier Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VAT_DATA__mdt-VAT Data Layout</layout>
+    </layoutAssignments>
 </Profile>
