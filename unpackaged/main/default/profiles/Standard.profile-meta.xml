@@ -51,6 +51,8 @@
         <field>Account.Description</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions><editable>false</editable><field>Account.DiscountPercentage__c</field><readable>true</readable></fieldPermissions>
+    <fieldPermissions><editable>true</editable><field>Account.DiscountRate__c</field><readable>true</readable></fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.DunsNumber</field>
@@ -149,6 +151,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Site</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Support_Tier__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -3106,6 +3113,8 @@
         <field>WorkStepTemplate.IsActive</field>
         <readable>true</readable>
     </fieldPermissions>
+    <recordTypeVisibilities><default>false</default><recordType>Account.Partner_Account</recordType><visible>false</visible></recordTypeVisibilities>
+    <recordTypeVisibilities><default>false</default><recordType>Contact.Contact</recordType><visible>false</visible></recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
@@ -3680,4 +3689,10 @@
         <enabled>true</enabled>
         <name>ViewSetup</name>
     </userPermissions>
+    <layoutAssignments>
+        <layout>Support_Tier__mdt-Support Tier Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>VAT_DATA__mdt-VAT Data Layout</layout>
+    </layoutAssignments>
 </Profile>

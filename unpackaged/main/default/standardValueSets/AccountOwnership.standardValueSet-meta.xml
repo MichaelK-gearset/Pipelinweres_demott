@@ -12,13 +12,13 @@
         <label>Private</label>
     </standardValue>
     <standardValue>
+        <fullName>Subsidiary</fullName>
+        <default>false</default>
+        <label>Subsidiary</label>
+    </standardValue>
+    <standardValue>
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
-    </standardValue>
-    <standardValue>
-        <fullName>None</fullName>
-        <default>false</default>
-        <label>None</label>
     </standardValue>
 </StandardValueSet>
