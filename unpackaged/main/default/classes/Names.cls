@@ -15,6 +15,7 @@ public class Names {
         'Freya',
         'Lucy',
         'Aaron',
+        'Smith',
         'Evie',
         'Harper',
         'Smith',
